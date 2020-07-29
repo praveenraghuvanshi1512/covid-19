@@ -1,4 +1,4 @@
-# NOTE: This repository is no longer maintained and it has been moved to new location, kindly refer new location (https://github.com/praveenraghuvanshi/covid-19)
+# :round_pushpin::fire: NOTE: This repository is no longer maintained and it has been moved to new location, kindly refer new location (https://github.com/praveenraghuvanshi/covid-19) for latest updates:fire::round_pushpin: 
 
 ## COVID-19
 - As per [Wiki](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) **Coronavirus disease 2019** (**COVID-19**) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic.
